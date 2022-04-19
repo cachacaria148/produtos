@@ -1,4 +1,7 @@
+$(document).ready(function() {
+
 var produtos_detalhes = [
+        
         
          {
             produto: 90323263,
@@ -523,3 +526,4 @@ var produtos_detalhes = [
         
         
     ]; // Fim de produtos detalhes
+});
