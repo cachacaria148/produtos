@@ -1,4 +1,3 @@
-$(document).ready(function() {
 
 var produtos_detalhes = [
         
@@ -543,4 +542,3 @@ var produtos_detalhes = [
         
         
     ]; // Fim de produtos detalhes
-});
