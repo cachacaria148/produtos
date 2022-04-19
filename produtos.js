@@ -1,7 +1,7 @@
 
 var produtos_detalhes = [
         
-          {
+          { // Nome: Cachaça Jacuba Ouro 700ml
             produto: 148580640,
             alcool: "40%",
             tempo: "02 anos",
