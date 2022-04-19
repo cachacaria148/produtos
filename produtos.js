@@ -2,6 +2,23 @@ $(document).ready(function() {
 
 var produtos_detalhes = [
         
+          {
+            produto: 148580640,
+            alcool: "40%",
+            tempo: "02 anos",
+            madeira: "Carvalho",
+            cidade: "Coronel Xavier Chaves",
+            estado: "MG"
+        },
+        
+        {
+            produto: 148565449,
+            alcool: "43%",
+            tempo: "06 anos",
+            madeira: "Carvalho",
+            cidade: "Buenópolis",
+            estado: "MG"
+        },
         
          {
             produto: 90323263,
