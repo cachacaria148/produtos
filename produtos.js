@@ -119,15 +119,6 @@ var produtos_detalhes = [
         },
         
         { 
-            produto: 144038203,
-            alcool: "45,3%",
-            tempo: "14 anos",
-            madeira: "Bálsamo da Bahia",
-            cidade: "Salinas",
-            estado: "MG"
-        },
-        
-        { 
             produto: 145397164,
             alcool: "40%",
             tempo: "03 anos",
