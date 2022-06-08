@@ -2,6 +2,15 @@
 var produtos_detalhes = [
         
         { 
+            produto: 160164193,
+            alcool: "40%",
+            tempo: "01 ano",
+            madeira: "Jequitibá",
+            cidade: "Parnamirim",
+            estado: "RN"
+        },
+        
+        { 
             produto: 147148881,
             alcool: "38%",
             tempo: "06 anos",
