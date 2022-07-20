@@ -3,6 +3,15 @@ var produtos_detalhes = [
         
         
         { 
+            produto: 167796528,
+            alcool: "42%",
+            tempo: "01 ano",
+            madeira: "Carvalho e Cerejeira",
+            cidade: "Araguari",
+            estado: "MG"
+        },
+        
+        { 
             produto: 167795141,
             alcool: "42%",
             tempo: "10 anos",
