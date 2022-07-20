@@ -2,7 +2,16 @@
 var produtos_detalhes = [
         
         
-         { 
+        { 
+            produto: 167788286,
+            alcool: "40%",
+            tempo: "04 anos",
+            madeira: "Carvalho Francês",
+            cidade: "Jandaia do Sul",
+            estado: "PR"
+        }, 
+        
+        { 
             produto: 167786397,
             alcool: "40%",
             tempo: "02 anos",
