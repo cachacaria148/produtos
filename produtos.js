@@ -1,6 +1,15 @@
 
 var produtos_detalhes = [
         
+        
+         { 
+            produto: 167786397,
+            alcool: "40%",
+            tempo: "02 anos",
+            madeira: "Umburana e Bálsamo",
+            cidade: "Parnamirim",
+            estado: "RN"
+        },
         { 
             produto: 160164193,
             alcool: "40%",
