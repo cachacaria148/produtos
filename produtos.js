@@ -3,6 +3,15 @@ var produtos_detalhes = [
         
         
         { 
+            produto: 167793631,
+            alcool: "38%",
+            tempo: "02 anos",
+            madeira: "Carvalho",
+            cidade: "Poço das Antas",
+            estado: "RS"
+        },
+        
+        { 
             produto: 167792597,
             alcool: "38%",
             tempo: "01 ano",
