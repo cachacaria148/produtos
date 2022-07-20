@@ -3,6 +3,15 @@ var produtos_detalhes = [
         
         
         { 
+            produto: 167795141,
+            alcool: "42%",
+            tempo: "10 anos",
+            madeira: "Carvalho",
+            cidade: "Guarapari",
+            estado: "ES"
+        },
+        
+        { 
             produto: 167794263,
             alcool: "38%",
             tempo: "02 anos",
