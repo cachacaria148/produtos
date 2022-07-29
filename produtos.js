@@ -3,6 +3,24 @@ var produtos_detalhes = [
         
         
         { 
+            produto: 169253586,
+            alcool: "40%",
+            tempo: "02 anos",
+            madeira: "Inox",
+            cidade: "Salinas",
+            estado: "MG"
+        },
+        
+        { 
+            produto: 169254235,
+            alcool: "40%",
+            tempo: "02 anos",
+            madeira: "Amburana",
+            cidade: "Salinas",
+            estado: "MG"
+        },
+        
+        { 
             produto: 169062307,
             alcool: "40%",
             tempo: "03 anos",
